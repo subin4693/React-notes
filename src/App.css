@@ -1,0 +1,11 @@
+.container{
+	background-color: orange;
+	display: flex;
+	padding: 0 1.5rem;	
+	gap: .2rem;
+	min-height: 100vh;
+	flex-wrap: wrap;
+}
+.header{
+	background-color: orange;
+}

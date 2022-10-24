@@ -1,0 +1,8 @@
+.card{
+	width: 15rem;
+	height: 20rem;
+	background-color: red;
+	display: grid;
+	place-items: center;
+
+}
